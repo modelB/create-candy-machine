@@ -1,0 +1,16 @@
+{
+  "name": "NewarkBG First Solana Collection",
+  "symbol": "NWK",
+  "description": "Collection of 10 eyes on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
