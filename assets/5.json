@@ -1,48 +1,24 @@
 {
-  "name": "Your Collection #6",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/6.png",
-  "dna": "c2709817a623ee9f2205ff09f5e19b9d142ed1c2",
-  "edition": 6,
-  "date": 1672800566006,
-  "properties": {
-    "files": [
-      {
-        "uri": "5.png",
-        "type": "image/png"
-      }
+    "name": "Studious Crab #6",
+    "symbol": "CRAB",
+    "description": "The Studious Crabs are smart and productive crabs.",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "chair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "books",
+            "value": "yellow"
+        }
     ],
-    "category": "image"
-  },
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Black"
-    },
-    {
-      "trait_type": "Eyeball",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Eye color",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Iris",
-      "value": "Small"
-    },
-    {
-      "trait_type": "Shine",
-      "value": "Shapes"
-    },
-    {
-      "trait_type": "Bottom lid",
-      "value": "Low"
-    },
-    {
-      "trait_type": "Top lid",
-      "value": "High"
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
     }
-  ],
-  "compiler": "HashLips Art Engine"
 }
